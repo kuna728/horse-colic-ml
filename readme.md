@@ -37,5 +37,5 @@ Celem eksperymentu jest stworzenie modelu, który na podstawie podanych parametr
 
 ## Żródła
 
-[Colic in Horses - University of Florida](https://edis.ifas.ufl.edu/publication/VM139)
-[Horse Colic Data Set - UCI](https://archive.ics.uci.edu/ml/datasets/Horse+Colic)
+- [Colic in Horses - University of Florida](https://edis.ifas.ufl.edu/publication/VM139)
+- [Horse Colic Data Set - UCI](https://archive.ics.uci.edu/ml/datasets/Horse+Colic)
