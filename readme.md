@@ -170,7 +170,7 @@ Powyższe dane zostały naniesione na wykres. Na wykresie wysokość słupka ozn
 ![porównanie klasyfikatorów wykres](./static/plot1.png)
 
 Jak widać 4 modele są wyraźnie lepsze od innych. Jako nasz ostateczny model wybierzemy **RandomForestClassifier** (las losowy),
-ponieważ ma sposród 4 rozważanych ma 3 najlepszy średni wynik, najlepszy najlepszy wynik oraz 2 najlepsze średnie odchylenie standardowe.
+ponieważ sposród 4 rozważanych ma 3 najlepszy średni wynik, najlepszy najlepszy wynik oraz 2 najlepsze średnie odchylenie standardowe.
 
 ## Analiza wybranego klasyfikatora
 
