@@ -14,6 +14,8 @@ Definicja kolki u konia jest bardzo szeroka - jest zdefiniowana jako dowolny bó
 
 Objawy kolki można zauważyć zarówno w zachowaniu konia jak i jego parametrach fizycznych. Objawy kolki to przede wszystkim zmniejszony apetyt, zmniejszona częstotliwość wypróżniania, depresja, częste leżenie i rozciąganie się, często spoglądanie na swój brzuch, drapanie się oraz wzdęty brzuch.
 
+![objawy kolki u konia](./static/image1.jpg)
+
 Kolka u konia może również objawiać się nieprawidłowymi parametrami fizycznymi. Niektóre prawidłowe wartości podano poniżej.
 |Temperatura ciała | Puls | Częstotliwość oddechu | Dziąsła | Częstotliwość wypróżniania |
 |--|--|--|--|--|
@@ -205,3 +207,4 @@ Macierz omyłek dla klasyfikacji binarnej została przedstawiona poniżej:
 
 - [Colic in Horses - University of Florida](https://edis.ifas.ufl.edu/publication/VM139)
 - [Horse Colic Data Set - UCI](https://archive.ics.uci.edu/ml/datasets/Horse+Colic)
+- [September: Impaction Colic](https://swiftsureequine.com/september-impaction-colic/)
